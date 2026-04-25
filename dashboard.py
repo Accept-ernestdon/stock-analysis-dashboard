@@ -12,7 +12,7 @@ st.set_page_config(page_title="Financial Market Dashboard", layout="wide")
 # HEADER (UPGRADED)
 # ----------------------------
 st.title("📊 Financial Market Analysis Dashboard")
-st.markdown("### Built by Ernest Donkoh")
+st.markdown("### Built by Acceptable Ernest Donkoh")
 
 st.markdown("""
 This dashboard provides insights into stock performance using real financial data.
